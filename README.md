@@ -30,7 +30,7 @@ Slicers for date, city, product, and channel allow users to filter data dynamica
 
 ## Gather Data
 
-The first step is collecting relevant data for your analysis. This data could come from various sources like databases, spreadsheets, or even web services. Ensure the data is accurate and reflects the information you want to analyze. In tis case the data is in Sales_Analysis_Report.xlsx
+The first step is collecting relevant data for your analysis. This data could come from various sources like databases, spreadsheets, or even web services. Ensure the data is accurate and reflects the information you want to analyze. In tis case the data is in *Sales_Analysis_Report.xlsx*
 
 ## Data Transformation with Power Query:
 

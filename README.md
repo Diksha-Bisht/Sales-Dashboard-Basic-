@@ -1,6 +1,9 @@
 # Sales-Dashboard-Basic-
 Steps by step process 
 
+>> Follow the link for the published Bi Report online: https://app.powerbi.com/links/99METEszfS?ctid=2c5bdaf4-8ff2-4bd9-bd54-7c50ab219590&pbi_source=linkShare
+
+
 # Objective
 This Power BI report aims to empower users with deep insights into sales performance, profitability, and customer behavior. By analyzing key performance indicators (KPIs) and trends, businesses can make informed decisions to optimize sales strategies and maximize financial gains.
 
